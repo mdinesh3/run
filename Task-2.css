@@ -1,0 +1,16 @@
+#canvas
+{
+    position: absolute;
+    height: 98%;
+    width:99%;
+}
+body
+{
+    background-color: black;
+}
+#run
+{
+    position:absolute;
+    height:98%;
+    width:99%;
+}
